@@ -6,6 +6,6 @@ mouse simply put your pointer finger up to move the mouse around the frame and i
 To use this program you need to install the required packages and have a screen open where you can click around.
 When you are ready to run enter this command:
 ```sh
-python3 VirtMouse.py
+python3 virt_mouse.py
 ```
 Then put your hand in view of the camera and move your pointer around to move the mouse and put the pointer and middler up and together to click!
